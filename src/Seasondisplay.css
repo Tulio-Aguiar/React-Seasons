@@ -39,3 +39,9 @@ h1 {
 .summer {
     background-color: orange;
 }
+
+.timer-display{
+    border: 2px solid #000;
+    background-color:aliceblue;
+    text-align: center;
+}
